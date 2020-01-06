@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="804afa34-b8d7-4932-8662-958c6a14651d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VyKs0bUZ9pHs6xlKhu4XIMiUC6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\Time-Tracking\src\main\resources\static" />
+      <recent name="C:\Users\admin\IdeaProjects\Time-Tracking\src\main\resources\static\css" />
+      <recent name="C:\Users\admin\IdeaProjects\Time-Tracking\src\main\resources" />
+      <recent name="C:\Users\admin\IdeaProjects\Time-Tracking" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Time-Tracking" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.kryha.service.app.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="804afa34-b8d7-4932-8662-958c6a14651d" name="Default Changelist" comment="" />
+      <created>1578220097751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578220097751</updated>
+      <workItem from="1578220102046" duration="2528000" />
+      <workItem from="1578248449127" duration="2019000" />
+      <workItem from="1578250517388" duration="1771000" />
+      <workItem from="1578252340836" duration="854000" />
+      <workItem from="1578257374981" duration="393000" />
+      <workItem from="1578257808845" duration="4486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="162" key="#Assign_Data_Sources" timestamp="1578257961123">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="162" key="#Assign_Data_Sources/0.0.1680.1010@0.0.1680.1010" timestamp="1578257961123" />
+    <state x="519" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578259215026">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="519" y="133" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578259215026" />
+    <state x="691" y="394" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578257687842">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="691" y="394" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578257687842" />
+    <state x="594" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578251897266">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="594" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578251897266" />
+    <state width="1637" height="310" key="GridCell.Tab.0.bottom" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.0.center" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.0.left" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.0.right" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.1.bottom" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.1.center" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.1.left" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="1637" height="310" key="GridCell.Tab.1.right" timestamp="1578301600534">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="310" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1578301600534" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1578257598255">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1680.1010@0.0.1680.1010" timestamp="1578257598255" />
+    <state x="341" y="146" key="SettingsEditor" timestamp="1578257773160">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="146" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1578257773160" />
+    <state x="733" y="355" width="326" height="299" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1578260389708">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="733" y="355" width="326" height="299" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1680.1010@0.0.1680.1010" timestamp="1578260389708" />
+    <state x="420" y="159" key="com.intellij.database.dbimport.ImportDialog" timestamp="1578252492917">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="420" y="159" key="com.intellij.database.dbimport.ImportDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578252492917" />
+    <state x="876" y="145" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1578249984657">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="876" y="145" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578249984657" />
+    <state x="535" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1578257818025">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="535" y="327" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1578257818025" />
+  </component>
+</project>

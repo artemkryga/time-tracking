@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" uuid="f889a4f0-2bb3-467c-bb3a-0c76cb967c77">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - postgres@databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com" uuid="22cd7368-3b42-44f7-bb6d-9ecfcfe229b5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://databaseforlearn.caviatwn83le.eu-central-1.rds.amazonaws.com:5432/postgres</jdbc-url>
+    </data-source>
+  </component>
+</project>
